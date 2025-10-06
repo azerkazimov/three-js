@@ -1,0 +1,8 @@
+Model Information:
+* title:	BMW M4 GTS
+* source:	https://sketchfab.com/3d-models/bmw-m4-gts-89dff8bc355d4c688966357f274fcf64
+* author:	Wekfest '23™ (https://sketchfab.com/Wekfest23)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
